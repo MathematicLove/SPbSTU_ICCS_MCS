@@ -1,0 +1,58 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "d88df3a92217f10c1eab82e82ea1665651b0bfc295732f8b1f5cf32184ec2379"
+    }
+  ],
+  "containerPath" : "/Users/ayzeksalimli/Desktop/Ayzek/4 сем/Теория Графов/BlackRed/BlackRed.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx14.4",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ayzeksalimli/Desktop/Ayzek/4 сем/Теория Графов/BlackRed/DerivedData/BlackRed/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ayzeksalimli/Desktop/Ayzek/4 сем/Теория Графов/BlackRed/DerivedData/BlackRed/Build/Products",
+      "derivedDataPath" : "/Users/ayzeksalimli/Desktop/Ayzek/4 сем/Теория Графов/BlackRed/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ayzeksalimli/Desktop/Ayzek/4 сем/Теория Графов/BlackRed/DerivedData/BlackRed/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ayzeksalimli/Desktop/Ayzek/4 сем/Теория Графов/BlackRed/DerivedData/BlackRed/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/ayzeksalimli/Desktop/Ayzek/4 сем/Теория Графов/BlackRed/DerivedData/BlackRed/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

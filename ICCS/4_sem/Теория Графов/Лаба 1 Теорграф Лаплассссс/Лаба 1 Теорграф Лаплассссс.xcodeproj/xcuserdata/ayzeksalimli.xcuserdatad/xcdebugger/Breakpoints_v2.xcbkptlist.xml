@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "871832D8-05A9-4CDF-8F59-1953190ED0FD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B1B4727-1470-4FCF-9D42-6E7C6642BAC6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x41b;&#x430;&#x431;&#x430; 1 &#x422;&#x435;&#x43e;&#x440;&#x433;&#x440;&#x430;&#x444; &#x41b;&#x430;&#x43f;&#x43b;&#x430;&#x441;&#x441;&#x441;&#x441;&#x441;/Operations.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "483"
+            endingLineNumber = "483"
+            landmarkName = "MinCostFlow(graph)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33D39592-B6C7-415C-8455-9F8C81EEC810"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x41b;&#x430;&#x431;&#x430; 1 &#x422;&#x435;&#x43e;&#x440;&#x433;&#x440;&#x430;&#x444; &#x41b;&#x430;&#x43f;&#x43b;&#x430;&#x441;&#x441;&#x441;&#x441;&#x441;/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "194"
+            endingLineNumber = "194"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16A779CA-99CD-4412-9BE3-DAC5B99FA2FC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x41b;&#x430;&#x431;&#x430; 1 &#x422;&#x435;&#x43e;&#x440;&#x433;&#x440;&#x430;&#x444; &#x41b;&#x430;&#x43f;&#x43b;&#x430;&#x441;&#x441;&#x441;&#x441;&#x441;/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "193"
+            endingLineNumber = "193"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "405CC40A-A8D6-4581-8B85-F013EEF8B182"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x41b;&#x430;&#x431;&#x430; 1 &#x422;&#x435;&#x43e;&#x440;&#x433;&#x440;&#x430;&#x444; &#x41b;&#x430;&#x43f;&#x43b;&#x430;&#x441;&#x441;&#x441;&#x441;&#x441;/MyGraph.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "MyGraph::DFSUtil(v, endVertex, visited, visitedNodes, parent, totalDistance)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "845FA803-4BFB-40AB-ABE3-20BEE2657C3D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x41b;&#x430;&#x431;&#x430; 1 &#x422;&#x435;&#x43e;&#x440;&#x433;&#x440;&#x430;&#x444; &#x41b;&#x430;&#x43f;&#x43b;&#x430;&#x441;&#x441;&#x441;&#x441;&#x441;/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "258"
+            endingLineNumber = "258"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC94D736-E583-40ED-8CDD-401A1F5B7E4E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x41b;&#x430;&#x431;&#x430; 1 &#x422;&#x435;&#x43e;&#x440;&#x433;&#x440;&#x430;&#x444; &#x41b;&#x430;&#x43f;&#x43b;&#x430;&#x441;&#x441;&#x441;&#x441;&#x441;/MyGraph.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1706"
+            endingLineNumber = "1706"
+            landmarkName = "MyGraph::AntColonyOptimization(weightMx, weightMode)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FABFE8FC-9968-4DE8-8194-FE149D8A3963"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x41b;&#x430;&#x431;&#x430; 1 &#x422;&#x435;&#x43e;&#x440;&#x433;&#x440;&#x430;&#x444; &#x41b;&#x430;&#x43f;&#x43b;&#x430;&#x441;&#x441;&#x441;&#x441;&#x441;/MyGraph.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1711"
+            endingLineNumber = "1711"
+            landmarkName = "MyGraph::AntColonyOptimization(weightMx, weightMode)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

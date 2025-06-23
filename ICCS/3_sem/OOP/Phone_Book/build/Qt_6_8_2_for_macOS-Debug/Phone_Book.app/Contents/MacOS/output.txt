@@ -1,0 +1,2 @@
+Salimli,Ayzek,Mukhtar Ogli,08.04.2003,Российская Федерация, г. Санкт-Петербург, ул. Хлопина 13к1,thisisnauchno@gmail.com,+7(921)945-67-03
+Vaganova,Olga,Yuzbashiyevna,08.08.1999,Российская Федерация, г. Санкт-Петербург, ул. Хлопина 13к1,vaganova8899@gmail.com,+7(999)859-98-15

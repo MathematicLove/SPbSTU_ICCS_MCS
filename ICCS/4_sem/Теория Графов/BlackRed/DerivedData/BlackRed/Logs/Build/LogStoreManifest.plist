@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>75537AE8-DCEF-4685-B547-9298F5B2EEE7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>75537AE8-DCEF-4685-B547-9298F5B2EEE7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>4</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BlackRed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BlackRed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BlackRed</string>
+			<key>timeStartedRecording</key>
+			<real>740353063.281914</real>
+			<key>timeStoppedRecording</key>
+			<real>740353065.91831994</real>
+			<key>title</key>
+			<string>Build BlackRed</string>
+			<key>uniqueIdentifier</key>
+			<string>75537AE8-DCEF-4685-B547-9298F5B2EEE7</string>
+		</dict>
+		<key>EB7E3A5E-0B49-424D-B34E-6D0B86DF5870</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EB7E3A5E-0B49-424D-B34E-6D0B86DF5870.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>4</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BlackRed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BlackRed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BlackRed</string>
+			<key>timeStartedRecording</key>
+			<real>739314322.485008</real>
+			<key>timeStoppedRecording</key>
+			<real>739314323.35909402</real>
+			<key>title</key>
+			<string>Build BlackRed</string>
+			<key>uniqueIdentifier</key>
+			<string>EB7E3A5E-0B49-424D-B34E-6D0B86DF5870</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
